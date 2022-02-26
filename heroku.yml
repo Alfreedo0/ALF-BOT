@@ -1,5 +1,3 @@
-Alfbot
-
 build: 
   docker: 
       worker: Dockerfile
