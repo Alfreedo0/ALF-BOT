@@ -1,5 +1,3 @@
-Alfbot
-
 const fs = require('fs');
 
 class StringSession {
