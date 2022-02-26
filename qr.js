@@ -1,7 +1,7 @@
 Alfbot
 
 const chalk = require('chalk');
-const {WAConnection} = require('@alfbot/baileys');
+const {WAConnection} = require('@adiwajshing/baileys');
 const {StringSession} = require('./alfbot/');
 const fs = require('fs');
 
