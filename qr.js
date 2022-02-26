@@ -12,7 +12,7 @@ async function alfbot () {
     conn.regenerateQRIntervalMs = 30000;
     
     conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
+        console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Alfbot')}
 ${chalk.white.italic('AlfbotString Kodu Alıcı')}
 
 ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please wait.')}`);
