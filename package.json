@@ -1,6 +1,6 @@
 {
   "name": "alfbot",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Alfbot WhatsApp kullanıcı botu. Created @Alfreedo.",
   "main": "./alfbot/bot.js",
   "scripts": {
