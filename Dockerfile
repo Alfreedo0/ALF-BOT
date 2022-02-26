@@ -1,5 +1,3 @@
-Alfbot
-
 FROM alfreedo/alfbot:latest
 
 RUN git clone $GITHUB_REPO_URL /root/WhatsAsena
