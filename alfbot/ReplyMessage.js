@@ -1,5 +1,3 @@
-Alfbot
-
 const {MessageType, Presence, MessageOptions} = require('@adiwajshing/baileys');
 const Base = require('./Base');
 const Image = require('./Image');
