@@ -1,5 +1,3 @@
-Alfbot
-
 // Komutları burada tutacağız.
 var config = require('./config');
 var Commands = [];
