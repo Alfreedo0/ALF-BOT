@@ -1,5 +1,3 @@
-Alfbot
-
 'use strict';
 
 class Base {
