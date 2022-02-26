@@ -1,5 +1,3 @@
-Alfbot
-
 module.exports = {
     Base: require('./Base'),
     Message: require('./Message'),
